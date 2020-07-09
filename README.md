@@ -3,8 +3,7 @@
 <div>
   <p>
     <img height="300" style="float:left" src="https://s3-us-west-1.amazonaws.com/iamnotmyself-com/2020/07/notmyself-animal-crossing-avatar-3.svg" />
-    Here are some ideas to get you started:
-    <ul style="list-style-type: none">
+    Here are some ideas to get you started:<ul style="list-style-type: none">
     <li> 🔭 I’m currently working on ...
     <li> 🌱 I’m currently learning ...
     <li> 👯 I’m looking to collaborate on ...
