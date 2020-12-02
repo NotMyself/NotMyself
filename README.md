@@ -2,7 +2,8 @@
 ### Hi there 👋, my name is Bobby Johnson
 #### I am eLearning Developer at Auth0
 
-I am an engineer with a passion for learning experience design. I build software that helps people understand how to build software.
+I am an engineer with a passion for learning experience design. I build software that helps people 
+understand how to build software.
 
 Skills: VUE JS / JS / HTML / CSS / .NET Core / Docker
 
