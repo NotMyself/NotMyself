@@ -1,6 +1,6 @@
+![I am eLearning Developer at Auth0](https://raw.githubusercontent.com/NotMyself/NotMyself/master/banner.jpg)
 ### Hi there 👋, my name is Bobby Johnson
 #### I am eLearning Developer at Auth0
-![I am eLearning Developer at Auth0](https://raw.githubusercontent.com/NotMyself/NotMyself/master/banner.jpg)
 
 I am an engineer with a passion for learning experience design. I build software that helps people understand how to build software.
 
