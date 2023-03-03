@@ -1,9 +1,8 @@
-![I am Senior Learning Experience Engineer at Okta](https://raw.githubusercontent.com/NotMyself/NotMyself/master/banner.jpg)
+![I am a Staff Solutions Architect at Okta](https://raw.githubusercontent.com/NotMyself/NotMyself/master/banner.jpg)
 ### Hi there 👋, my name is Bobby Johnson
-#### I am Senior Learning Experience Engineer, Customer Identity Cloud at Okta
+#### I am a Staff Solutions Architect, Customer Identity Cloud at Okta
 
-I am an engineer with a passion for learning experience design. I build software that helps people 
-understand how to build software.
+I am an engineer with a passion for solving complex problems.
 
 Skills: VUE JS / JS / HTML / CSS / .NET Core / Docker
 
