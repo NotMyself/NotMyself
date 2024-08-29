@@ -1,6 +1,6 @@
-![I am a Staff Solutions Architect at Okta](https://raw.githubusercontent.com/NotMyself/NotMyself/master/banner.jpg)
+![Bobby Johnson](https://raw.githubusercontent.com/NotMyself/NotMyself/master/banner.jpg)
 ### Hi there 👋, my name is Bobby Johnson
-#### I am a Staff Solutions Architect, Customer Identity Cloud at Okta
+
 
 I am an engineer with a passion for solving complex problems.
 
